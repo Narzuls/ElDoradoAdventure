@@ -1,7 +1,7 @@
 # ElDoradoWorld
 Minecraft server
 
-This mod pack is a survival, engeenering and RPG modpack.
+This mod pack is a survival, engeenring and RPG modpack.
 
 
 
