@@ -1,7 +1,7 @@
 {
   "type": "exnihilosequentia:heat",
   "block": "minecraft:campfire",
-  "amount": 1,
+  "amount": 4,
   "state": {
     "lit": "true"
   }

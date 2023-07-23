@@ -32,7 +32,7 @@
 	"Clone mutations" = false
 	#
 	#Set to true to override vanilla farming, meaning vanilla seeds will be converted to agricraft seeds on planting.
-	"Override vanilla farming" = true
+	"Override vanilla farming" = false
 	#
 	#Set to true to convert seeds only in the analyzer. Has no effect if "Override vanilla farming" is set to false.
 	"Convert seeds only in analyzer" = false
@@ -208,9 +208,6 @@
 	#Defined in terms of mB per second. The irrigation loop progress will pause when there is insufficient water.
 	#Range: 0 ~ 1000
 	"Sprinkler water usage" = 10
-	#
-	#Set to true to disable particles (Client only)
-	"Disable particles" = false
 
 [decoration]
 	#
@@ -281,28 +278,4 @@
 	#
 	#Set to false to disable compatibility with Straw Golem Reborn (in case things break)
 	"Enable Straw Golem Reborn compat" = true
-
-[debug]
-	#
-	#Set to true to add Registry information to itemstack tooltips (Client only)
-	"Registry tooltips" = false
-	#
-	#Set to true to add Tag information to itemstack tooltips (Client only)
-	"Tag tooltips" = false
-	#
-	#Set to true to add NBT information to itemstack tooltips (Client only)
-	"NBT tooltips" = false
-
-[animations]
-	#
-	#Configures the animation duration in ticks for the camera to snap to the seed analyzer, 0 disables it (Client only)
-	#Range: 0 ~ 40
-	"Seed Analyzer Animation Duration" = 15
-	#
-	#Configures the animation duration in ticks for the camera to snap to the journal, 0 disables it (Client only)
-	#Range: 0 ~ 40
-	"Journal Animation Duration" = 10
-	#
-	#Determine if the journal and the analyzer use guis instead of in-world animation (Client only)
-	"Use GUIs" = false
 

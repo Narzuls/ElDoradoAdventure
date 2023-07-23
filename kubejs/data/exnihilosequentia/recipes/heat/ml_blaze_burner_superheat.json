@@ -1,7 +1,7 @@
 {
   "type": "exnihilosequentia:heat",
   "block": "create:blaze_burner",
-  "amount": 30,
+  "amount": 60,
   "state": {
       "blaze": "seething"
   }
