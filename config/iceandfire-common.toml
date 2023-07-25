@@ -156,7 +156,7 @@
 		#Range: 1 ~ 10000
 		"Pixie Village Size" = 5
 		#True if pixies are allowed to steal from players
-		"Pixies Steal Items" = true
+		"Pixies Steal Items" = false
 
 	[Mobs.Cyclops]
 		#True if cyclops caves are allowed to spawn
