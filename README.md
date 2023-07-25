@@ -1,7 +1,7 @@
-# ElDoradoWorld
-Minecraft server
+# ElDoradoAdventure
+Minecraft Modpack
 
-This mod pack is a survival, engineering and RPG modpack.
+This mod pack is a survival,RPG,engineering modpack.
 
 
 
